@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Tarnvale | 0.00628",
+ "answer": {
+  "name": "Tarnvale",
+  "number": 0.00628
+ },
+ "unanswered": false,
+ "prompt_tokens": 2258,
+ "completion_tokens": 13,
+ "calls": 1,
+ "seconds": 1.004,
+ "question_id": "Q-14",
+ "correct": false,
+ "expected": {
+  "answer": "Ashgrove",
+  "value": 4.9,
+  "decimals": 1
+ }
+}

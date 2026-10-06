@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Ashgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nDifference: \\(370.8 - 368.208333\\ldots = 2.591666\\ldots\\) pupils per school.\n\nANSWER: Millbrook | 2.592",
+ "answer": {
+  "name": "Millbrook",
+  "number": 2.592,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11280,
+ "completion_tokens": 507,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Ashgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nDifference: \\(370.8 - 368.208333\\ldots = 2.591666\\ldots\\) pupils per school.\n\nANSWER: Millbrook | 2.592",
+   "answer": {
+    "name": "Millbrook",
+    "number": 2.592
+   }
+  },
+  {
+   "reply": "Ashgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nDifference: \\(370.8 - 368.208333\\ldots = 2.591666\\ldots\\), which is \\(2.592\\) pupils per school to three decimal places.\n\nANSWER: Millbrook | 2.592",
+   "answer": {
+    "name": "Millbrook",
+    "number": 2.592
+   }
+  },
+  {
+   "reply": "Ashgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nDifference: \\(370.8 - 368.208333\\ldots = 2.591666\\ldots\\), which is 2.592 pupils per school.\n\nANSWER: Millbrook | 2.592",
+   "answer": {
+    "name": "Millbrook",
+    "number": 2.592
+   }
+  },
+  {
+   "reply": "Ashgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nDifference: \\(370.8 - 368.208333\\ldots = 2.591666\\ldots\\) pupils per school.\n\nTherefore, Millbrook has more pupils per school by 2.592 pupils per school.\n\nANSWER: Millbrook | 2.592",
+   "answer": {
+    "name": "Millbrook",
+    "number": 2.592
+   }
+  },
+  {
+   "reply": "Ashgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nDifference: \\(370.8 - 368.208333\\ldots = 2.591666\\ldots\\) pupils per school.\n\nMillbrook has more pupils per school by 2.592 pupils per school.\n\nANSWER: Millbrook | 2.592",
+   "answer": {
+    "name": "Millbrook",
+    "number": 2.592
+   }
+  }
+ ],
+ "seconds": 8.824,
+ "question_id": "Q-04",
+ "correct": true,
+ "expected": {
+  "answer": "Millbrook",
+  "value": 2.59,
+  "decimals": 2
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: yes | 40220.174",
+ "answer": {
+  "name": "yes",
+  "number": 40220.174
+ },
+ "unanswered": false,
+ "prompt_tokens": 2275,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 0.959,
+ "question_id": "Q-18",
+ "correct": false,
+ "expected": {
+  "answer": "yes",
+  "value": 40013,
+  "decimals": 0
+ }
+}

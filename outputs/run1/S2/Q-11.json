@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Redfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nAshgrove: \\(8837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5562 \\div 15 = 370.8\\) pupils per school.\n\nThe fewest is Redfen. The difference between the highest and lowest is:\n\n\\(370.8 - 314.7 = 56.1\\)\n\nANSWER: Redfen | 56.1",
+ "answer": {
+  "name": "Redfen",
+  "number": 56.1,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11350,
+ "completion_tokens": 583,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Redfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nAshgrove: \\(8837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5562 \\div 15 = 370.8\\) pupils per school.\n\nThe fewest is Redfen. The difference between the highest and lowest is:\n\n\\(370.8 - 314.7 = 56.1\\)\n\nANSWER: Redfen | 56.1",
+   "answer": {
+    "name": "Redfen",
+    "number": 56.1
+   }
+  },
+  {
+   "reply": "Redfen: \\(3147 \\div 10 = 314.7\\) pupils per school.  \nAshgrove: \\(8837 \\div 24 = 368.208333\\ldots\\) pupils per school.  \nMillbrook: \\(5562 \\div 15 = 370.8\\) pupils per school.\n\nThe fewest pupils per school is in Redfen.  \nDifference between the highest and lowest: \\(370.8 - 314.7 = 56.1\\).\n\nANSWER: Redfen | 56.1",
+   "answer": {
+    "name": "Redfen",
+    "number": 56.1
+   }
+  },
+  {
+   "reply": "Redfen: \\(3,147 \\div 10 = 314.7\\) pupils per school.\n\nAshgrove: \\(8,837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5,562 \\div 15 = 370.8\\) pupils per school.\n\nRedfen has the fewest pupils per school. The difference between the highest, Millbrook, and the lowest, Redfen, is:\n\n\\(370.8 - 314.7 = 56.1\\)\n\nANSWER: Redfen | 56.1",
+   "answer": {
+    "name": "Redfen",
+    "number": 56.1
+   }
+  },
+  {
+   "reply": "Redfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nAshgrove: \\(8837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5562 \\div 15 = 370.8\\) pupils per school.\n\nRedfen has the fewest pupils per school. The difference between the highest and lowest is:\n\n\\(370.8 - 314.7 = 56.1\\)\n\nANSWER: Redfen | 56.1",
+   "answer": {
+    "name": "Redfen",
+    "number": 56.1
+   }
+  },
+  {
+   "reply": "Redfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nAshgrove: \\(8837 \\div 24 = 368.208333\\ldots\\) pupils per school.\n\nMillbrook: \\(5562 \\div 15 = 370.8\\) pupils per school.\n\nThe fewest is Redfen. The difference between the highest and lowest is:\n\n\\(370.8 - 314.7 = 56.1\\)\n\nANSWER: Redfen | 56.1",
+   "answer": {
+    "name": "Redfen",
+    "number": 56.1
+   }
+  }
+ ],
+ "seconds": 9.401,
+ "question_id": "Q-11",
+ "correct": true,
+ "expected": {
+  "answer": "Redfen",
+  "value": 56.1,
+  "decimals": 2
+ }
+}

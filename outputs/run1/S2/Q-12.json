@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Harrowfield:  \n16,021.7 million tenge = 16,021,700,000 tenge  \n16,021,700,000 ÷ 13,904 pupils = 1,152,026.035673... tenge per pupil\n\nTarnvale:  \n12,960.3 million tenge = 12,960,300,000 tenge  \n12,960,300,000 ÷ 10,652 pupils = 1,216,958.412505... tenge per pupil\n\nDifference:  \n1,216,958.412505... − 1,152,026.035673... = 64,932.376832... tenge  \n64,932.376832... ÷ 1,000 = 64.932 thousand tenge per pupil\n\nANSWER: Tarnvale | 64.932",
+ "answer": {
+  "name": "Tarnvale",
+  "number": 64.932,
+  "votes": 1,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11290,
+ "completion_tokens": 923,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Harrowfield:  \n16,021.7 million tenge = 16,021,700,000 tenge  \n16,021,700,000 ÷ 13,904 pupils = 1,152,026.035673... tenge per pupil\n\nTarnvale:  \n12,960.3 million tenge = 12,960,300,000 tenge  \n12,960,300,000 ÷ 10,652 pupils = 1,216,958.412505... tenge per pupil\n\nDifference:  \n1,216,958.412505... − 1,152,026.035673... = 64,932.376832... tenge  \n64,932.376832... ÷ 1,000 = 64.932 thousand tenge per pupil\n\nANSWER: Tarnvale | 64.932",
+   "answer": {
+    "name": "Tarnvale",
+    "number": 64.932
+   }
+  },
+  {
+   "reply": "Harrowfield: \\(16,021.7\\) million tenge ÷ \\(13,904\\) pupils \\(= 1,152,226.697\\) tenge per pupil.\n\nTarnvale: \\(12,960.3\\) million tenge ÷ \\(10,652\\) pupils \\(= 1,216,390.349\\) tenge per pupil.\n\nDifference: \\(1,216,390.349 - 1,152,226.697 = 64,163.652\\) tenge \\(= 64.164\\) thousand tenge per pupil.\n\nANSWER: Tarnvale | 64.164",
+   "answer": {
+    "name": "Tarnvale",
+    "number": 64.164
+   }
+  },
+  {
+   "reply": "Harrowfield: \\(16,021.7\\) million tenge ÷ \\(13,904\\) pupils \\(= 1,152,? \\) thousand tenge per pupil.\n\nTarnvale: \\(12,960.3\\) million tenge ÷ \\(10,652\\) pupils \\(= 1,216,? \\) thousand tenge per pupil.\n\nDifference:\n\\[\n\\frac{12,960.3\\times1000}{10,652}-\\frac{16,021.7\\times1000}{13,904}\n=63.993\\text{ thousand tenge per pupil}\n\\]\n\nTarnvale is higher.\n\nANSWER: Tarnvale | 63.993",
+   "answer": {
+    "name": "Tarnvale",
+    "number": 63.993
+   }
+  },
+  {
+   "reply": "Harrowfield: \\(16,021.7\\) million tenge \\(= 16,021,700,000\\) tenge.\n\n\\[\n16,021,700,000 \\div 13,904 = 1,152,915.7069907933\n\\]\n\nTarnvale: \\(12,960.3\\) million tenge \\(= 12,960,300,000\\) tenge.\n\n\\[\n12,960,300,000 \\div 10,652 = 1,216,015.771686915\n\\]\n\nDifference:\n\n\\[\n1,216,015.771686915 - 1,152,915.7069907933\n= 63,100.0646961217\\text{ tenge}\n\\]\n\n\\[\n63,100.0646961217 \\div 1,000 = 63.1000646961217\\text{ thousand tenge}\n\\]\n\nANSWER: Tarnvale | 63.100",
+   "answer": {
+    "name": "Tarnvale",
+    "number": 63.1
+   }
+  },
+  {
+   "reply": "Harrowfield: \\(16,021.7\\) million tenge \\(=16,021,700,000\\) tenge.\n\n\\[\n16,021,700,000 \\div 13,904 = 1,152,885.5\\text{ tenge per pupil}\n\\]\n\n\\[\n1,152,885.5 \\div 1,000 = 1,152.8855\\text{ thousand tenge per pupil}\n\\]\n\nTarnvale: \\(12,960.3\\) million tenge \\(=12,960,300,000\\) tenge.\n\n\\[\n12,960,300,000 \\div 10,652 = 1,216,024.2208\\text{ tenge per pupil}\n\\]\n\n\\[\n1,216,024.2208 \\div 1,000 = 1,216.0242208\\text{ thousand tenge per pupil}\n\\]\n\n\\[\n1,216.0242208 - 1,152.8855 = 63.1387208\\text{ thousand tenge per pupil}\n\\]\n\nANSWER: Tarnvale | 63.139",
+   "answer": {
+    "name": "Tarnvale",
+    "number": 63.139
+   }
+  }
+ ],
+ "seconds": 12.92,
+ "question_id": "Q-12",
+ "correct": false,
+ "expected": {
+  "answer": "Tarnvale",
+  "value": 64.4,
+  "decimals": 1
+ }
+}

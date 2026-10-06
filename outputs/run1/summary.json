@@ -1,0 +1,35 @@
+[
+ {
+  "strategy": "S1",
+  "questions": 20,
+  "correct": 3,
+  "unanswered": 0,
+  "prompt_tokens": 45160,
+  "completion_tokens": 249,
+  "median_seconds": 1.09,
+  "total_seconds": 21.7,
+  "cost": 0.0093
+ },
+ {
+  "strategy": "S2",
+  "questions": 20,
+  "correct": 16,
+  "unanswered": 0,
+  "prompt_tokens": 226100,
+  "completion_tokens": 13854,
+  "median_seconds": 10.56,
+  "total_seconds": 216.7,
+  "cost": 0.0618
+ },
+ {
+  "strategy": "S3",
+  "questions": 20,
+  "correct": 20,
+  "unanswered": 0,
+  "prompt_tokens": 78624,
+  "completion_tokens": 4642,
+  "median_seconds": 5.05,
+  "total_seconds": 98.8,
+  "cost": 0.0213
+ }
+]

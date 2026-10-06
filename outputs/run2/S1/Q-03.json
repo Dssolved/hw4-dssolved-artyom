@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Lindenmoor | 0.709",
+ "answer": {
+  "name": "Lindenmoor",
+  "number": 0.709
+ },
+ "unanswered": false,
+ "prompt_tokens": 2258,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 1.068,
+ "question_id": "Q-03",
+ "correct": false,
+ "expected": {
+  "answer": "Lindenmoor",
+  "value": 5.3,
+  "decimals": 1
+ }
+}

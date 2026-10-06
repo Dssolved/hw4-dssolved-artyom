@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Redfen | 0.889",
+ "answer": {
+  "name": "Redfen",
+  "number": 0.889
+ },
+ "unanswered": false,
+ "prompt_tokens": 2253,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 1.089,
+ "question_id": "Q-15",
+ "correct": false,
+ "expected": {
+  "answer": "Redfen",
+  "value": 17.61,
+  "decimals": 2
+ }
+}

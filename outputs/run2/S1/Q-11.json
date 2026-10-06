@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Ashgrove | 252.15",
+ "answer": {
+  "name": "Ashgrove",
+  "number": 252.15
+ },
+ "unanswered": false,
+ "prompt_tokens": 2267,
+ "completion_tokens": 13,
+ "calls": 1,
+ "seconds": 1.425,
+ "question_id": "Q-11",
+ "correct": false,
+ "expected": {
+  "answer": "Redfen",
+  "value": 56.1,
+  "decimals": 2
+ }
+}

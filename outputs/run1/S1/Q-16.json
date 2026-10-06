@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: yes | 23.9",
+ "answer": {
+  "name": "yes",
+  "number": 23.9
+ },
+ "unanswered": false,
+ "prompt_tokens": 2252,
+ "completion_tokens": 11,
+ "calls": 1,
+ "seconds": 1.082,
+ "question_id": "Q-16",
+ "correct": true,
+ "expected": {
+  "answer": "yes",
+  "value": 23.9,
+  "decimals": 1
+ }
+}

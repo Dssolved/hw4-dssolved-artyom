@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Coldharbour | 4.159%",
+ "answer": {
+  "name": "Coldharbour",
+  "number": 4.159
+ },
+ "unanswered": false,
+ "prompt_tokens": 2263,
+ "completion_tokens": 14,
+ "calls": 1,
+ "seconds": 1.117,
+ "question_id": "Q-13",
+ "correct": true,
+ "expected": {
+  "answer": "Coldharbour",
+  "value": 4.16,
+  "decimals": 2
+ }
+}

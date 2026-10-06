@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: yes | 14069",
+ "answer": {
+  "name": "yes",
+  "number": 14069.0
+ },
+ "unanswered": false,
+ "prompt_tokens": 2258,
+ "completion_tokens": 10,
+ "calls": 1,
+ "seconds": 1.068,
+ "question_id": "Q-06",
+ "correct": true,
+ "expected": {
+  "answer": "yes",
+  "value": 14069,
+  "decimals": 0
+ }
+}

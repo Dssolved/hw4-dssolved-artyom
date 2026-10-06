@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Stonecairn | 3.537\n",
+ "answer": {
+  "name": "Stonecairn",
+  "number": 3.537
+ },
+ "unanswered": false,
+ "prompt_tokens": 2263,
+ "completion_tokens": 15,
+ "calls": 1,
+ "seconds": 1.337,
+ "question_id": "Q-13",
+ "correct": false,
+ "expected": {
+  "answer": "Coldharbour",
+  "value": 4.16,
+  "decimals": 2
+ }
+}

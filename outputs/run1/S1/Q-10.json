@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Stonecairn | 8",
+ "answer": {
+  "name": "Stonecairn",
+  "number": 8.0
+ },
+ "unanswered": false,
+ "prompt_tokens": 2249,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 1.162,
+ "question_id": "Q-10",
+ "correct": true,
+ "expected": {
+  "answer": "Stonecairn",
+  "value": 8,
+  "decimals": 0
+ }
+}

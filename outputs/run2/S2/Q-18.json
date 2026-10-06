@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Millbrook’s population growth from 2020 to 2025 was:\n\n\\[\n37,203 - 34,590 = 2,613\n\\]\n\n\\[\n\\text{Growth percentage}=\\frac{2,613}{34,590}=\\frac{2613}{34590}\n\\]\n\nApplying the same growth percentage to the 2025 population:\n\n\\[\n37,203 \\times \\left(1+\\frac{2613}{34590}\\right)\n=37,203 \\times \\frac{37203}{34590}\n=40,012.626771...\n\\]\n\nThis exceeds 40,000 residents.\n\nANSWER: yes | 40012.627",
+ "answer": {
+  "name": "yes",
+  "number": 40012.627,
+  "votes": 1,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11390,
+ "completion_tokens": 644,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Millbrook’s population growth from 2020 to 2025 was:\n\n\\[\n37,203 - 34,590 = 2,613\n\\]\n\n\\[\n\\text{Growth percentage}=\\frac{2,613}{34,590}=\\frac{2613}{34590}\n\\]\n\nApplying the same growth percentage to the 2025 population:\n\n\\[\n37,203 \\times \\left(1+\\frac{2613}{34590}\\right)\n=37,203 \\times \\frac{37203}{34590}\n=40,012.626771...\n\\]\n\nThis exceeds 40,000 residents.\n\nANSWER: yes | 40012.627",
+   "answer": {
+    "name": "yes",
+    "number": 40012.627
+   }
+  },
+  {
+   "reply": "Millbrook’s population growth from 2020 to 2025 was:\n\n\\[\n37,203 - 34,590 = 2,613\n\\]\n\nGrowth percentage:\n\n\\[\n\\frac{2,613}{34,590} = 0.075513... \n\\]\n\nApplying the same growth rate to the 2025 population:\n\n\\[\n37,203 \\times (1 + 0.075513...) = 40,013.003...\n\\]\n\nThe projected 2030 population is 40,013.003, which exceeds 40,000.\n\nANSWER: yes | 40013.003",
+   "answer": {
+    "name": "yes",
+    "number": 40013.003
+   }
+  },
+  {
+   "reply": "Millbrook’s population increase from 2020 to 2025 was:\n\n37,203 − 34,590 = 2,613\n\nGrowth percentage:\n\n2,613 ÷ 34,590 = 0.0755715525\n\nApplying the same percentage growth to the 2025 population:\n\n37,203 × (1 + 0.0755715525) = 40,015.000\n\nThe projected population exceeds 40,000.\n\nANSWER: yes | 40015",
+   "answer": {
+    "name": "yes",
+    "number": 40015.0
+   }
+  },
+  {
+   "reply": "Millbrook’s population growth from 2020 to 2025 was:\n\n\\[\n37,203 - 34,590 = 2,613\n\\]\n\n\\[\n\\text{Growth percentage}=\\frac{2,613}{34,590}\\times100=7.553628794\\%\n\\]\n\nApplying the same growth percentage to the 2025 population:\n\n\\[\n37,203\\times\\left(1+\\frac{2,613}{34,590}\\right)\n=37,203\\times\\frac{37,203}{34,590}\n=40,013.934721\n\\]\n\nThe projected population is 40,013.935, which exceeds 40,000.\n\nANSWER: yes | 40013.935",
+   "answer": {
+    "name": "yes",
+    "number": 40013.935
+   }
+  },
+  {
+   "reply": "Millbrook’s population growth from 2020 to 2025 was:\n\n\\[\n37,203-34,590=2,613\n\\]\n\n\\[\n\\frac{2,613}{34,590}=0.0755429315\n\\]\n\nApplying the same percentage growth to the 2025 population:\n\n\\[\n37,203 \\times (1+0.0755429315)=40,013.181\n\\]\n\nThe projected population exceeds 40,000.\n\nANSWER: yes | 40013.181",
+   "answer": {
+    "name": "yes",
+    "number": 40013.181
+   }
+  }
+ ],
+ "seconds": 10.216,
+ "question_id": "Q-18",
+ "correct": true,
+ "expected": {
+  "answer": "yes",
+  "value": 40013,
+  "decimals": 0
+ }
+}

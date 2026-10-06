@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Redfen | 0.034",
+ "answer": {
+  "name": "Redfen",
+  "number": 0.034
+ },
+ "unanswered": false,
+ "prompt_tokens": 2252,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 0.886,
+ "question_id": "Q-19",
+ "correct": false,
+ "expected": {
+  "answer": "Lindenmoor",
+  "value": 0.035,
+  "decimals": 3
+ }
+}

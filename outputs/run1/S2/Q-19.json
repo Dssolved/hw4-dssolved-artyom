@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Lindenmoor density:\n402.3 ÷ 1,015.7 = 0.39618... km per square kilometre\n\nRedfen density:\n244.6 ÷ 677.1 = 0.36124... km per square kilometre\n\nDifference:\n0.39618... − 0.36124... = 0.03494... km per square kilometre\n\nLindenmoor has the denser paved road network by 0.035 km of road per square kilometre.\n\nANSWER: Lindenmoor | 0.035",
+ "answer": {
+  "name": "Lindenmoor",
+  "number": 0.035,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11275,
+ "completion_tokens": 553,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Lindenmoor density:\n402.3 ÷ 1,015.7 = 0.39618... km per square kilometre\n\nRedfen density:\n244.6 ÷ 677.1 = 0.36124... km per square kilometre\n\nDifference:\n0.39618... − 0.36124... = 0.03494... km per square kilometre\n\nLindenmoor has the denser paved road network by 0.035 km of road per square kilometre.\n\nANSWER: Lindenmoor | 0.035",
+   "answer": {
+    "name": "Lindenmoor",
+    "number": 0.035
+   }
+  },
+  {
+   "reply": "Lindenmoor density:\n402.3 ÷ 1,015.7 = 0.396278\n\nRedfen density:\n244.6 ÷ 677.1 = 0.361305\n\nDifference:\n0.396278 − 0.361305 = 0.034973 km per square kilometre\n\nLindenmoor has the denser paved road network by 0.034973 km of road per square kilometre.\n\nANSWER: Lindenmoor | 0.035",
+   "answer": {
+    "name": "Lindenmoor",
+    "number": 0.035
+   }
+  },
+  {
+   "reply": "Lindenmoor: \\(402.3 \\div 1,015.7 = 0.396081...\\) km of road per square kilometre.\n\nRedfen: \\(244.6 \\div 677.1 = 0.361245...\\) km of road per square kilometre.\n\nDifference: \\(0.396081... - 0.361245... = 0.034836...\\) km per square kilometre.\n\nANSWER: Lindenmoor | 0.035",
+   "answer": {
+    "name": "Lindenmoor",
+    "number": 0.035
+   }
+  },
+  {
+   "reply": "Lindenmoor: \\(402.3 \\div 1,015.7 = 0.396083... \\text{ km/km}^2\\)\n\nRedfen: \\(244.6 \\div 677.1 = 0.361246... \\text{ km/km}^2\\)\n\nDifference: \\(0.396083... - 0.361246... = 0.034837...\\), which is 0.035 km per square kilometre to three decimal places.\n\nANSWER: Lindenmoor | 0.035",
+   "answer": {
+    "name": "Lindenmoor",
+    "number": 0.035
+   }
+  },
+  {
+   "reply": "Lindenmoor: \\(402.3 \\div 1,015.7 = 0.396082308...\\) km of road per square kilometre.\n\nRedfen: \\(244.6 \\div 677.1 = 0.361420471...\\) km of road per square kilometre.\n\nDifference: \\(0.396082308... - 0.361420471... = 0.034661837...\\), which is 0.035 km per square kilometre to three decimal places.\n\nANSWER: Lindenmoor | 0.035",
+   "answer": {
+    "name": "Lindenmoor",
+    "number": 0.035
+   }
+  }
+ ],
+ "seconds": 9.902,
+ "question_id": "Q-19",
+ "correct": true,
+ "expected": {
+  "answer": "Lindenmoor",
+  "value": 0.035,
+  "decimals": 3
+ }
+}

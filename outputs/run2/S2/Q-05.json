@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Stonecairn: \\(2,884.6\\) million tenge \\(= 2,884,600,000\\) tenge.\n\n\\(2,884,600,000 \\div 14,926 = 193,274.087632\\) tenge per resident.\n\nColdharbour: \\(2,366.9\\) million tenge \\(= 2,366,900,000\\) tenge.\n\n\\(2,366,900,000 \\div 11,407 = 207,516.432805\\) tenge per resident.\n\nDifference:\n\n\\(207,516.432805 - 193,274.087632 = 14,242.345173\\) tenge per resident.\n\nColdharbour had the larger budget per resident, by 14242.345 tenge per resident.\n\nANSWER: Coldharbour | 14242.345",
+ "answer": {
+  "name": "Coldharbour",
+  "number": 14242.345,
+  "votes": 1,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11285,
+ "completion_tokens": 869,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Stonecairn: \\(2,884.6\\) million tenge \\(= 2,884,600,000\\) tenge.\n\n\\(2,884,600,000 \\div 14,926 = 193,274.087632\\) tenge per resident.\n\nColdharbour: \\(2,366.9\\) million tenge \\(= 2,366,900,000\\) tenge.\n\n\\(2,366,900,000 \\div 11,407 = 207,516.432805\\) tenge per resident.\n\nDifference:\n\n\\(207,516.432805 - 193,274.087632 = 14,242.345173\\) tenge per resident.\n\nColdharbour had the larger budget per resident, by 14242.345 tenge per resident.\n\nANSWER: Coldharbour | 14242.345",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 14242.345
+   }
+  },
+  {
+   "reply": "Stonecairn: \\(2,884.6\\) million tenge ÷ \\(14,926\\) residents  \n\\(= 2,884,600,000 ÷ 14,926 = 193,285.005\\) tenge per resident\n\nColdharbour: \\(2,366.9\\) million tenge ÷ \\(11,407\\) residents  \n\\(= 2,366,900,000 ÷ 11,407 = 207,518.027\\) tenge per resident\n\nDifference: \\(207,518.027 - 193,285.005 = 14,233.022\\) tenge per resident\n\nANSWER: Coldharbour | 14233.022",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 14233.022
+   }
+  },
+  {
+   "reply": "Stonecairn: \\(2,884.6\\) million tenge \\(= 2,884,600,000\\) tenge.\n\nStonecairn budget per resident:\n\\(2,884,600,000 \\div 14,926 = 193,239.983\\) tenge per resident.\n\nColdharbour: \\(2,366.9\\) million tenge \\(= 2,366,900,000\\) tenge.\n\nColdharbour budget per resident:\n\\(2,366,900,000 \\div 11,407 = 207,515.552\\) tenge per resident.\n\nDifference:\n\\(207,515.552 - 193,239.983 = 14,275.569\\) tenge per resident.\n\nANSWER: Coldharbour | 14275.569",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 14275.569
+   }
+  },
+  {
+   "reply": "Stonecairn: \\(2,884.6\\) million tenge \\(= 2,884,600,000\\) tenge.\n\nStonecairn budget per resident:\n\\(2,884,600,000 \\div 14,926 = 193,161.729\\) tenge.\n\nColdharbour: \\(2,366.9\\) million tenge \\(= 2,366,900,000\\) tenge.\n\nColdharbour budget per resident:\n\\(2,366,900,000 \\div 11,407 = 207,501.534\\) tenge.\n\nDifference:\n\\(207,501.534 - 193,161.729 = 14,339.805\\) tenge per resident.\n\nANSWER: Coldharbour | 14339.805",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 14339.805
+   }
+  },
+  {
+   "reply": "Stonecairn: \\(2,884.6\\) million tenge \\(= 2,884,600,000\\) tenge.\n\n\\(2,884,600,000 \\div 14,926 = 193,234.584...\\) tenge per resident.\n\nColdharbour: \\(2,366.9\\) million tenge \\(= 2,366,900,000\\) tenge.\n\n\\(2,366,900,000 \\div 11,407 = 207,480.582...\\) tenge per resident.\n\nDifference:\n\n\\(207,480.582... - 193,234.584... = 14,245.998...\\) tenge per resident.\n\nColdharbour had the larger budget per resident by 14,245.998 tenge per resident.\n\nANSWER: Coldharbour | 14245.998",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 14245.998
+   }
+  }
+ ],
+ "seconds": 11.126,
+ "question_id": "Q-05",
+ "correct": false,
+ "expected": {
+  "answer": "Coldharbour",
+  "value": 14235,
+  "decimals": 0
+ }
+}

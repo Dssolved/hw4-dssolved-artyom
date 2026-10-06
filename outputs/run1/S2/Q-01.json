@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Population density = population ÷ area.\n\nOssbridge:  \n52,904 ÷ 1,284.6 = 41.185429...\n\nOssford:  \n30,982 ÷ 846.2 = 36.614037...\n\nDifference:  \n41.185429... − 36.614037... = 4.571392... residents per square kilometre.\n\nOssbridge has the higher population density.\n\nANSWER: Ossbridge | 4.571",
+ "answer": {
+  "name": "Ossbridge",
+  "number": 4.569,
+  "votes": 2,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11275,
+ "completion_tokens": 575,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Population density = population ÷ area.\n\nOssbridge:  \n52,904 ÷ 1,284.6 = 41.185429...\n\nOssford:  \n30,982 ÷ 846.2 = 36.614037...\n\nDifference:  \n41.185429... − 36.614037... = 4.571392... residents per square kilometre.\n\nOssbridge has the higher population density.\n\nANSWER: Ossbridge | 4.571",
+   "answer": {
+    "name": "Ossbridge",
+    "number": 4.571
+   }
+  },
+  {
+   "reply": "Population density is calculated as population ÷ area.\n\nOssbridge:  \n52,904 ÷ 1,284.6 = 41.182... residents per square kilometre\n\nOssford:  \n30,982 ÷ 846.2 = 36.613... residents per square kilometre\n\nDifference:  \n41.182... − 36.613... = 4.569... residents per square kilometre\n\nOssbridge has the higher population density by 4.569 residents per square kilometre.  \nANSWER: Ossbridge | 4.569",
+   "answer": {
+    "name": "Ossbridge",
+    "number": 4.569
+   }
+  },
+  {
+   "reply": "Population density = population ÷ area.\n\nOssbridge:  \n52,904 ÷ 1,284.6 = 41.184181...\n\nOssford:  \n30,982 ÷ 846.2 = 36.612148...\n\nDifference:  \n41.184181... − 36.612148... = 4.572033... residents per square kilometre.\n\nOssbridge has the higher population density by 4.572 residents per square kilometre.\n\nANSWER: Ossbridge | 4.572",
+   "answer": {
+    "name": "Ossbridge",
+    "number": 4.572
+   }
+  },
+  {
+   "reply": "Population density = population ÷ area.\n\nOssbridge:  \n52,904 ÷ 1,284.6 = 41.185428... residents per square kilometre\n\nOssford:  \n30,982 ÷ 846.2 = 36.615929... residents per square kilometre\n\nDifference:  \n41.185428... − 36.615929... = 4.569499... residents per square kilometre\n\nOssbridge has the higher population density, by 4.569 residents per square kilometre.\n\nANSWER: Ossbridge | 4.569",
+   "answer": {
+    "name": "Ossbridge",
+    "number": 4.569
+   }
+  },
+  {
+   "reply": "Ossbridge density = 52,904 ÷ 1,284.6 = 41.187295... residents per square kilometre.\n\nOssford density = 30,982 ÷ 846.2 = 36.613564... residents per square kilometre.\n\nDifference = 41.187295... − 36.613564... = 4.573731... residents per square kilometre.\n\nOssbridge has the higher population density, by 4.574 residents per square kilometre.\n\nANSWER: Ossbridge | 4.574",
+   "answer": {
+    "name": "Ossbridge",
+    "number": 4.574
+   }
+  }
+ ],
+ "seconds": 10.728,
+ "question_id": "Q-01",
+ "correct": true,
+ "expected": {
+  "answer": "Ossbridge",
+  "value": 4.6,
+  "decimals": 1
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Brightwater | 1.617",
+ "answer": {
+  "name": "Brightwater",
+  "number": 1.617
+ },
+ "unanswered": false,
+ "prompt_tokens": 2252,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 1.227,
+ "question_id": "Q-09",
+ "correct": false,
+ "expected": {
+  "answer": "Millbrook",
+  "value": 0.6,
+  "decimals": 1
+ }
+}

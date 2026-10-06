@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Ossbridge area + Ossford area = 1,284.6 + 846.2 = 2,130.8 square kilometres.\n\nTarnvale area = 2,106.9 square kilometres.\n\nDifference = 2,130.8 − 2,106.9 = 23.9 square kilometres.\n\nThe combined area is larger.\n\nANSWER: yes | 23.9",
+ "answer": {
+  "name": "yes",
+  "number": 23.9,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11275,
+ "completion_tokens": 387,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Ossbridge area + Ossford area = 1,284.6 + 846.2 = 2,130.8 square kilometres.\n\nTarnvale area = 2,106.9 square kilometres.\n\nDifference = 2,130.8 − 2,106.9 = 23.9 square kilometres.\n\nThe combined area is larger.\n\nANSWER: yes | 23.9",
+   "answer": {
+    "name": "yes",
+    "number": 23.9
+   }
+  },
+  {
+   "reply": "Ossbridge and Ossford combined:\n\n1,284.6 + 846.2 = 2,130.8 square kilometres\n\nCompare with Tarnvale:\n\n2,130.8 − 2,106.9 = 23.9 square kilometres\n\nThe combined area is larger.\n\nANSWER: yes | 23.9",
+   "answer": {
+    "name": "yes",
+    "number": 23.9
+   }
+  },
+  {
+   "reply": "Ossbridge and Ossford combined area:\n\n1,284.6 + 846.2 = 2,130.8 square kilometres\n\nTarnvale area:\n\n2,106.9 square kilometres\n\nDifference:\n\n2,130.8 − 2,106.9 = 23.9 square kilometres\n\nThe combined area is larger.\n\nANSWER: yes | 23.9",
+   "answer": {
+    "name": "yes",
+    "number": 23.9
+   }
+  },
+  {
+   "reply": "Ossbridge and Ossford combined area:\n\n1,284.6 + 846.2 = 2,130.8 square kilometres\n\nDifference from Tarnvale:\n\n2,130.8 − 2,106.9 = 23.9 square kilometres\n\nThe combined area is larger.\n\nANSWER: yes | 23.9",
+   "answer": {
+    "name": "yes",
+    "number": 23.9
+   }
+  },
+  {
+   "reply": "Ossbridge and Ossford combined area:\n\n1,284.6 + 846.2 = 2,130.8 square kilometres\n\nTarnvale area:\n\n2,106.9 square kilometres\n\nDifference:\n\n2,130.8 − 2,106.9 = 23.9 square kilometres\n\nThe combined area is larger.\n\nANSWER: yes | 23.9",
+   "answer": {
+    "name": "yes",
+    "number": 23.9
+   }
+  }
+ ],
+ "seconds": 8.655,
+ "question_id": "Q-16",
+ "correct": true,
+ "expected": {
+  "answer": "yes",
+  "value": 23.9,
+  "decimals": 1
+ }
+}

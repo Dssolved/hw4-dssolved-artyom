@@ -1,0 +1,6 @@
+{
+ "prompt_tokens_without_tools": 216,
+ "prompt_tokens_with_tools": 823,
+ "tokens_added_by_the_two_definitions": 607,
+ "tiktoken_o200k_of_the_definitions_as_json": 621
+}

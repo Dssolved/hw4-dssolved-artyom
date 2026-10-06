@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Ashgrove | 0.042",
+ "answer": {
+  "name": "Ashgrove",
+  "number": 0.042
+ },
+ "unanswered": false,
+ "prompt_tokens": 2258,
+ "completion_tokens": 13,
+ "calls": 1,
+ "seconds": 0.999,
+ "question_id": "Q-14",
+ "correct": false,
+ "expected": {
+  "answer": "Ashgrove",
+  "value": 4.9,
+  "decimals": 1
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Ashgrove | 6.604",
+ "answer": {
+  "name": "Ashgrove",
+  "number": 6.604
+ },
+ "unanswered": false,
+ "prompt_tokens": 2253,
+ "completion_tokens": 13,
+ "calls": 1,
+ "seconds": 1.195,
+ "question_id": "Q-04",
+ "correct": false,
+ "expected": {
+  "answer": "Millbrook",
+  "value": 2.59,
+  "decimals": 2
+ }
+}

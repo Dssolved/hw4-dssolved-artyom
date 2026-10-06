@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Ossbridge | 0.000",
+ "answer": {
+  "name": "Ossbridge",
+  "number": 0.0
+ },
+ "unanswered": false,
+ "prompt_tokens": 2265,
+ "completion_tokens": 12,
+ "calls": 1,
+ "seconds": 1.172,
+ "question_id": "Q-20",
+ "correct": false,
+ "expected": {
+  "answer": "Ashgrove",
+  "value": 2993,
+  "decimals": 0
+ }
+}

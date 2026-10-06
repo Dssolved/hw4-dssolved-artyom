@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Coldharbour | 19.047\n",
+ "answer": {
+  "name": "Coldharbour",
+  "number": 19.047
+ },
+ "unanswered": false,
+ "prompt_tokens": 2262,
+ "completion_tokens": 14,
+ "calls": 1,
+ "seconds": 1.041,
+ "question_id": "Q-07",
+ "correct": false,
+ "expected": {
+  "answer": "Coldharbour",
+  "value": 18.5,
+  "decimals": 2
+ }
+}

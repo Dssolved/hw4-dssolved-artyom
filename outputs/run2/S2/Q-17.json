@@ -1,0 +1,57 @@
+{
+ "strategy": "S2",
+ "reply": "Harrowfield water cost per resident:\n\n- Water use: 7,146 megalitres = 7,146,000 cubic metres\n- Total cost: 7,146,000 × 142.35 = 1,017,? Wait calculate exactly: 7,146,000 × 142.35 = 1,017,? 142.35 × 7,146 = 1,017,?  \n  142.35 × 7,000 = 996,450  \n  142.35 × 146 = 20,? 142.35 × 146 = 20,? (142.35 × 100 = 14,235; ×40 = 5,694; ×6 = 854.1; total 20,783.1)  \n  Total per 1,000 cubic metres = 1,017,233.1; multiplied by 1,000 = 1,017,233,100 tenge\n- Per resident: 1,017,233,100 ÷ 90,212 = 11,275.551146... tenge\n\nOssbridge water cost per resident:\n\n- Water use: 3,862 megalitres = 3,862,000 cubic metres\n- Total cost: 3,862,000 × 142.35 = 549,?  \n  142.35 × 3,862 = 549,? (×3,800 = 541,? 142.35 × 38 = 5,409.3, so ×3,800 = 541,? 5,409.3 ×100 = 540,930; ×62 = 8,? 142.35 ×62 = 8,825.7; total 549,755.7)  \n  Total = 549,755,700 tenge\n- Per resident: 549,755,700 ÷ 52,904 = 10,391.151? tenge\n\nDifference:\n\n- 11,275.551146... − 10,391.151? = 884.400... tenge per resident\n\nHarrowfield | 884.4",
+ "answer": {
+  "name": "Harrowfield",
+  "number": 884.802,
+  "votes": 1,
+  "of": 4
+ },
+ "unanswered": false,
+ "prompt_tokens": 11335,
+ "completion_tokens": 1661,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Harrowfield water cost per resident:\n\n- Water use: 7,146 megalitres = 7,146,000 cubic metres\n- Total cost: 7,146,000 × 142.35 = 1,017,? Wait calculate exactly: 7,146,000 × 142.35 = 1,017,? 142.35 × 7,146 = 1,017,?  \n  142.35 × 7,000 = 996,450  \n  142.35 × 146 = 20,? 142.35 × 146 = 20,? (142.35 × 100 = 14,235; ×40 = 5,694; ×6 = 854.1; total 20,783.1)  \n  Total per 1,000 cubic metres = 1,017,233.1; multiplied by 1,000 = 1,017,233,100 tenge\n- Per resident: 1,017,233,100 ÷ 90,212 = 11,275.551146... tenge\n\nOssbridge water cost per resident:\n\n- Water use: 3,862 megalitres = 3,862,000 cubic metres\n- Total cost: 3,862,000 × 142.35 = 549,?  \n  142.35 × 3,862 = 549,? (×3,800 = 541,? 142.35 × 38 = 5,409.3, so ×3,800 = 541,? 5,409.3 ×100 = 540,930; ×62 = 8,? 142.35 ×62 = 8,825.7; total 549,755.7)  \n  Total = 549,755,700 tenge\n- Per resident: 549,755,700 ÷ 52,904 = 10,391.151? tenge\n\nDifference:\n\n- 11,275.551146... − 10,391.151? = 884.400... tenge per resident\n\nHarrowfield | 884.4",
+   "answer": null
+  },
+  {
+   "reply": "Harrowfield water cost per resident:\n\n\\[\n7,146\\text{ ML} \\times 1,000 = 7,146,000\\text{ m}^3\n\\]\n\n\\[\n7,146,000 \\times 142.35 = 1,017,251,100\\text{ tenge}\n\\]\n\n\\[\n1,017,251,100 \\div 90,212 = 11,276.778935\\text{ tenge per resident}\n\\]\n\nOssbridge water cost per resident:\n\n\\[\n3,862\\text{ ML} \\times 1,000 = 3,862,000\\text{ m}^3\n\\]\n\n\\[\n3,862,000 \\times 142.35 = 549,761,700\\text{ tenge}\n\\]\n\n\\[\n549,761,700 \\div 52,904 = 10,391.977195\\text{ tenge per resident}\n\\]\n\nDifference:\n\n\\[\n11,276.778935 - 10,391.977195 = 884.801740\\text{ tenge per resident}\n\\]\n\nANSWER: Harrowfield | 884.802",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 884.802
+   }
+  },
+  {
+   "reply": "Harrowfield’s per-resident water cost:\n\n- Water use: 7,146 megalitres = 7,146,000 cubic metres\n- Total cost: 7,146,000 × 142.35 = 1,017,233,100 tenge\n- Cost per resident: 1,017,233,100 ÷ 90,212 = 11,276.111813... tenge\n\nOssbridge’s per-resident water cost:\n\n- Water use: 3,862 megalitres = 3,862,000 cubic metres\n- Total cost: 3,862,000 × 142.35 = 549,761,700 tenge\n- Cost per resident: 549,761,700 ÷ 52,904 = 10,391.178965... tenge\n\nDifference:\n\n- 11,276.111813... − 10,391.178965... = 884.932848... tenge\n\nHarrowfield households paid more, by 884.933 tenge per resident.\n\nANSWER: Harrowfield | 884.933",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 884.933
+   }
+  },
+  {
+   "reply": "Harrowfield’s households paid more.\n\nHarrowfield water cost per resident:\n\\(7,146 \\text{ ML} \\times 1,000 \\text{ m}^3/\\text{ML} \\times 142.35 \\text{ tenge/m}^3 = 1,017,? \\)\n\\(7,146,000 \\times 142.35 = 1,017,? \\)\n\\(7,146,000 \\times 142 + 7,146,000 \\times 0.35 = 1,015,332,000 + 2,501,100 = 1,017,833,100\\) tenge\n\\(1,017,833,100 \\div 90,212 = 11,282.945? \\) tenge per resident\n\nOssbridge water cost per resident:\n\\(3,862 \\times 1,000 \\times 142.35 = 549,? \\)\n\\(3,862,000 \\times 142 + 3,862,000 \\times 0.35 = 548,404,000 + 1,351,700 = 549,755,700\\) tenge\n\\(549,755,700 \\div 52,904 = 10,391.? \\) tenge per resident\n\nDifference:\n\\(11,282.945? - 10,391.? = 891.?\\) tenge per resident\n\nANSWER: Harrowfield | 891.???",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 891.0
+   }
+  },
+  {
+   "reply": "Harrowfield water use per resident:\n7,146 megalitres × 1,000 = 7,146,000 cubic metres  \n7,146,000 × 142.35 = 1,017,? Let's calculate exactly: 7,146,000 × 142.35 = 1,017,?  \n142.35 × 7,146,000 = 142.35 × 7,146 × 1,000 = 1,017,?  \n142.35 × 7,146 = 1,017,? = 1,017,?  \nActually, 7,146 × 142.35 = 1,017,?  \n7,146 × 142 + 7,146 × 0.35 = 1,014,732 + 2,501.1 = 1,017,233.1  \nThus total cost = 1,017,233,100 tenge.  \n1,017,233,100 ÷ 90,212 = 11,275.291.\n\nOssbridge water use per resident:\n3,862 megalitres × 1,000 = 3,862,000 cubic metres  \n3,862,000 × 142.35 = 549,?  \n3,862 × 142.35 = 548,? = 548,?  \n3,862 × 142 = 548,404; 3,862 × 0.35 = 1,351.7; total = 549,755.7  \nThus total cost = 549,755,700 tenge.  \n549,755,700 ÷ 52,904 = 10,391.?  \n\nDifference:\n11,275.291 − 10,391.? = approximately 883.?\n\nHarrowfield households paid more.\n\nANSWER: Harrowfield | 883.000",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 883.0
+   }
+  }
+ ],
+ "seconds": 17.509,
+ "question_id": "Q-17",
+ "correct": true,
+ "expected": {
+  "answer": "Harrowfield",
+  "value": 884,
+  "decimals": 0
+ }
+}

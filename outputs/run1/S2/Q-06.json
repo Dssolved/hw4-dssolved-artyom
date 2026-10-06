@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Redfen and Kelmarsh combined:\n\n20,934 + 24,117 = 45,051 residents\n\nCompare with Ossford:\n\n45,051 − 30,982 = 14,069 residents\n\nThe combined population is larger.\n\nANSWER: yes | 14069",
+ "answer": {
+  "name": "yes",
+  "number": 14069.0,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11305,
+ "completion_tokens": 314,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Redfen and Kelmarsh combined:\n\n20,934 + 24,117 = 45,051 residents\n\nCompare with Ossford:\n\n45,051 − 30,982 = 14,069 residents\n\nThe combined population is larger.\n\nANSWER: yes | 14069",
+   "answer": {
+    "name": "yes",
+    "number": 14069.0
+   }
+  },
+  {
+   "reply": "Redfen and Kelmarsh combined:\n\n20,934 + 24,117 = 45,051 residents\n\nCompare with Ossford:\n\n45,051 − 30,982 = 14,069 residents\n\nThe combined population is larger.\n\nANSWER: yes | 14069",
+   "answer": {
+    "name": "yes",
+    "number": 14069.0
+   }
+  },
+  {
+   "reply": "Redfen and Kelmarsh combined population:\n\n20,934 + 24,117 = 45,051\n\nCompare with Ossford:\n\n45,051 − 30,982 = 14,069\n\nThe combined population is larger.\n\nANSWER: yes | 14069",
+   "answer": {
+    "name": "yes",
+    "number": 14069.0
+   }
+  },
+  {
+   "reply": "Redfen and Kelmarsh combined: 20,934 + 24,117 = 45,051 residents.\n\nOssford: 30,982 residents.\n\nDifference: 45,051 − 30,982 = 14,069 residents.\n\nTherefore, the combined population is larger.\n\nANSWER: yes | 14069",
+   "answer": {
+    "name": "yes",
+    "number": 14069.0
+   }
+  },
+  {
+   "reply": "Redfen and Kelmarsh combined: 20,934 + 24,117 = 45,051 residents.\n\nOssford: 30,982 residents.\n\nDifference: 45,051 − 30,982 = 14,069 residents.\n\nThe combined population is larger.\n\nANSWER: yes | 14069",
+   "answer": {
+    "name": "yes",
+    "number": 14069.0
+   }
+  }
+ ],
+ "seconds": 7.49,
+ "question_id": "Q-06",
+ "correct": true,
+ "expected": {
+  "answer": "yes",
+  "value": 14069,
+  "decimals": 0
+ }
+}

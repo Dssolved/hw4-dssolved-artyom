@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Harrowfield | 59.178",
+ "answer": {
+  "name": "Harrowfield",
+  "number": 59.178
+ },
+ "unanswered": false,
+ "prompt_tokens": 2255,
+ "completion_tokens": 13,
+ "calls": 1,
+ "seconds": 1.094,
+ "question_id": "Q-12",
+ "correct": false,
+ "expected": {
+  "answer": "Tarnvale",
+  "value": 64.4,
+  "decimals": 1
+ }
+}

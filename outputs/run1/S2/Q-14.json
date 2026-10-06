@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Tarnvale:\n5,207 megalitres = 5,207,000,000 litres\n5,207,000,000 ÷ 71,388 ÷ 365 = 199.885 litres per resident per day\n\nAshgrove:\n4,390 megalitres = 4,390,000,000 litres\n4,390,000,000 ÷ 58,760 ÷ 365 = 204.711 litres per resident per day\n\nDifference:\n204.711 − 199.885 = 4.826 litres per resident per day\n\nAshgrove used more water per resident per day.\n\nANSWER: Ashgrove | 4.826",
+ "answer": {
+  "name": "Ashgrove",
+  "number": 4.826,
+  "votes": 1,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11305,
+ "completion_tokens": 930,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Tarnvale:\n5,207 megalitres = 5,207,000,000 litres\n5,207,000,000 ÷ 71,388 ÷ 365 = 199.885 litres per resident per day\n\nAshgrove:\n4,390 megalitres = 4,390,000,000 litres\n4,390,000,000 ÷ 58,760 ÷ 365 = 204.711 litres per resident per day\n\nDifference:\n204.711 − 199.885 = 4.826 litres per resident per day\n\nAshgrove used more water per resident per day.\n\nANSWER: Ashgrove | 4.826",
+   "answer": {
+    "name": "Ashgrove",
+    "number": 4.826
+   }
+  },
+  {
+   "reply": "Tarnvale:\n- Water use: 5,207 megalitres = 5,207,000,000 litres\n- Residents: 71,388\n- Days in 2025: 365\n- Per resident per day = 5,207,000,000 ÷ 71,388 ÷ 365 = 199.884492...\n\nAshgrove:\n- Water use: 4,390 megalitres = 4,390,000,000 litres\n- Residents: 58,760\n- Days in 2025: 365\n- Per resident per day = 4,390,000,000 ÷ 58,760 ÷ 365 = 204.733997...\n\nDifference = 204.733997... − 199.884492... = 4.849504... litres per resident per day.\n\nTherefore, Ashgrove's households used more water.\n\nANSWER: Ashgrove | 4.850",
+   "answer": {
+    "name": "Ashgrove",
+    "number": 4.85
+   }
+  },
+  {
+   "reply": "Tarnvale: \\(5,207\\) megalitres \\(= 5,207,000,000\\) litres.\n\n\\[\n\\frac{5,207,000,000}{71,388 \\times 365}\n= \\frac{5,207,000,000}{26,056,620}\n= 199.755\\ldots\\text{ litres per resident per day}\n\\]\n\nAshgrove: \\(4,390\\) megalitres \\(= 4,390,000,000\\) litres.\n\n\\[\n\\frac{4,390,000,000}{58,760 \\times 365}\n= \\frac{4,390,000,000}{21,448,400}\n= 204.675\\ldots\\text{ litres per resident per day}\n\\]\n\n\\[\n204.675\\ldots - 199.755\\ldots = 4.920\\ldots\n\\]\n\nANSWER: Ashgrove | 4.920",
+   "answer": {
+    "name": "Ashgrove",
+    "number": 4.92
+   }
+  },
+  {
+   "reply": "Tarnvale:  \n5,207 megalitres = 5,207,000,000 litres  \n5,207,000,000 ÷ 71,388 ÷ 365 = 199.887 litres per resident per day\n\nAshgrove:  \n4,390 megalitres = 4,390,000,000 litres  \n4,390,000,000 ÷ 58,760 ÷ 365 = 204.673 litres per resident per day\n\nDifference:  \n204.673 − 199.887 = 4.786 litres per resident per day\n\nANSWER: Ashgrove | 4.786",
+   "answer": {
+    "name": "Ashgrove",
+    "number": 4.786
+   }
+  },
+  {
+   "reply": "Tarnvale: \\(5,207\\) megalitres \\(= 5,207,000,000\\) litres.\n\n\\[\n\\frac{5,207,000,000}{71,388 \\times 365}\n= \\frac{5,207,000,000}{26,056,620}\n= 199.756\\ldots\\text{ litres per resident per day}\n\\]\n\nAshgrove: \\(4,390\\) megalitres \\(= 4,390,000,000\\) litres.\n\n\\[\n\\frac{4,390,000,000}{58,760 \\times 365}\n= \\frac{4,390,000,000}{21,447,400}\n= 204.686\\ldots\\text{ litres per resident per day}\n\\]\n\n\\[\n204.686\\ldots - 199.756\\ldots = 4.930\\ldots\n\\]\n\nAshgrove households used more water by \\(4.930\\) litres per resident per day.\n\nANSWER: Ashgrove | 4.930",
+   "answer": {
+    "name": "Ashgrove",
+    "number": 4.93
+   }
+  }
+ ],
+ "seconds": 12.575,
+ "question_id": "Q-14",
+ "correct": true,
+ "expected": {
+  "answer": "Ashgrove",
+  "value": 4.9,
+  "decimals": 1
+ }
+}

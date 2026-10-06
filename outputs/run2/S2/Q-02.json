@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Tarnvale growth:\n\\[\n\\frac{71,388-67,214}{67,214}\\times100\n=\\frac{4,174}{67,214}\\times100\n=6.209379\\ldots\\%\n\\]\n\nHarrowfield growth:\n\\[\n\\frac{90,212-83,609}{83,609}\\times100\n=\\frac{6,603}{83,609}\\times100\n=7.898793\\ldots\\%\n\\]\n\nDifference:\n\\[\n7.898793\\ldots-6.209379\\ldots=1.689414\\ldots\n\\]\n\nHarrowfield grew faster by 1.689 percentage points.\n\nANSWER: Harrowfield | 1.689",
+ "answer": {
+  "name": "Harrowfield",
+  "number": 1.688,
+  "votes": 3,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11305,
+ "completion_tokens": 773,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Tarnvale growth:\n\\[\n\\frac{71,388-67,214}{67,214}\\times100\n=\\frac{4,174}{67,214}\\times100\n=6.209379\\ldots\\%\n\\]\n\nHarrowfield growth:\n\\[\n\\frac{90,212-83,609}{83,609}\\times100\n=\\frac{6,603}{83,609}\\times100\n=7.898793\\ldots\\%\n\\]\n\nDifference:\n\\[\n7.898793\\ldots-6.209379\\ldots=1.689414\\ldots\n\\]\n\nHarrowfield grew faster by 1.689 percentage points.\n\nANSWER: Harrowfield | 1.689",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 1.689
+   }
+  },
+  {
+   "reply": "Tarnvale growth:\n\\[\n\\frac{71,388-67,214}{67,214}\\times100\n=\\frac{4,174}{67,214}\\times100\n=6.210590...\n\\%\n\\]\n\nHarrowfield growth:\n\\[\n\\frac{90,212-83,609}{83,609}\\times100\n=\\frac{6,603}{83,609}\\times100\n=7.897596...\n\\%\n\\]\n\nDifference:\n\\[\n7.897596...-6.210590...\n=1.687006...\\text{ percentage points}\n\\]\n\nHarrowfield grew faster by 1.687 percentage points.\n\nANSWER: Harrowfield | 1.687",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 1.687
+   }
+  },
+  {
+   "reply": "Tarnvale’s percentage growth:\n\\[\n\\frac{71,388-67,214}{67,214}\\times100\n=\\frac{4,174}{67,214}\\times100\n=6.209420...\n\\%\\]\n\nHarrowfield’s percentage growth:\n\\[\n\\frac{90,212-83,609}{83,609}\\times100\n=\\frac{6,603}{83,609}\\times100\n=7.897236...\n\\%\n\\]\n\nDifference:\n\\[\n7.897236...-6.209420...=1.687816...\\text{ percentage points}\n\\]\n\nHarrowfield grew faster by 1.688 percentage points.\n\nANSWER: Harrowfield | 1.688",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 1.688
+   }
+  },
+  {
+   "reply": "Tarnvale’s percentage growth:\n\\[\n\\frac{71,388-67,214}{67,214}\\times100\n=\\frac{4,174}{67,214}\\times100\n=6.209388\\ldots\\%\n\\]\n\nHarrowfield’s percentage growth:\n\\[\n\\frac{90,212-83,609}{83,609}\\times100\n=\\frac{6,603}{83,609}\\times100\n=7.897237\\ldots\\%\n\\]\n\nDifference:\n\\[\n7.897237\\ldots-6.209388\\ldots=1.687849\\ldots\n\\]\n\nHarrowfield grew faster by 1.688 percentage points.\n\nANSWER: Harrowfield | 1.688",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 1.688
+   }
+  },
+  {
+   "reply": "Tarnvale growth:\n\\[\n\\frac{71,388-67,214}{67,214}\\times100\n=\\frac{4,174}{67,214}\\times100\n=6.2094\\%\n\\]\n\nHarrowfield growth:\n\\[\n\\frac{90,212-83,609}{83,609}\\times100\n=\\frac{6,603}{83,609}\\times100\n=7.8975\\%\n\\]\n\nDifference:\n\\[\n7.8975\\%-6.2094\\%=1.6881\n\\]\n\nHarrowfield grew faster by 1.6881 percentage points.\n\nANSWER: Harrowfield | 1.688",
+   "answer": {
+    "name": "Harrowfield",
+    "number": 1.688
+   }
+  }
+ ],
+ "seconds": 10.51,
+ "question_id": "Q-02",
+ "correct": true,
+ "expected": {
+  "answer": "Harrowfield",
+  "value": 1.69,
+  "decimals": 2
+ }
+}

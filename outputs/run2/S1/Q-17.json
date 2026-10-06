@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Harrowfield | 27.348",
+ "answer": {
+  "name": "Harrowfield",
+  "number": 27.348
+ },
+ "unanswered": false,
+ "prompt_tokens": 2264,
+ "completion_tokens": 13,
+ "calls": 1,
+ "seconds": 0.889,
+ "question_id": "Q-17",
+ "correct": false,
+ "expected": {
+  "answer": "Harrowfield",
+  "value": 884,
+  "decimals": 0
+ }
+}

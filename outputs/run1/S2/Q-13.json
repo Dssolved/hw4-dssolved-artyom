@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Population decreases:\n\n- Ossford: \\(31,560 - 30,982 = 578\\)  \n  Percentage lost: \\(578 \\div 31,560 \\times 100 = 1.831432...\\%\\)\n\n- Stonecairn: \\(15,473 - 14,926 = 547\\)  \n  Percentage lost: \\(547 \\div 15,473 \\times 100 = 3.535... \\%\\)\n\n- Coldharbour: \\(11,902 - 11,407 = 495\\)  \n  Percentage lost: \\(495 \\div 11,902 \\times 100 = 4.158124...\\%\\)\n\nColdharbour lost the largest percentage.\n\nANSWER: Coldharbour | 4.158",
+ "answer": {
+  "name": "Coldharbour",
+  "number": 4.158,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11330,
+ "completion_tokens": 863,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Population decreases:\n\n- Ossford: \\(31,560 - 30,982 = 578\\)  \n  Percentage lost: \\(578 \\div 31,560 \\times 100 = 1.831432...\\%\\)\n\n- Stonecairn: \\(15,473 - 14,926 = 547\\)  \n  Percentage lost: \\(547 \\div 15,473 \\times 100 = 3.535... \\%\\)\n\n- Coldharbour: \\(11,902 - 11,407 = 495\\)  \n  Percentage lost: \\(495 \\div 11,902 \\times 100 = 4.158124...\\%\\)\n\nColdharbour lost the largest percentage.\n\nANSWER: Coldharbour | 4.158",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 4.158
+   }
+  },
+  {
+   "reply": "Ossford lost \\(31,560 - 30,982 = 578\\) residents.\n\nPercentage loss:\n\\[\n\\frac{578}{31,560}\\times 100 = 1.831432...\n\\%\\]\n\nStonecairn lost \\(15,473 - 14,926 = 547\\) residents.\n\nPercentage loss:\n\\[\n\\frac{547}{15,473}\\times 100 = 3.534300...\n\\%\\]\n\nColdharbour lost \\(11,902 - 11,407 = 495\\) residents.\n\nPercentage loss:\n\\[\n\\frac{495}{11,902}\\times 100 = 4.158125...\n\\%\\]\n\nColdharbour lost the largest percentage, \\(4.158\\%\\).\n\nANSWER: Coldharbour | 4.158",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 4.158
+   }
+  },
+  {
+   "reply": "Ossford lost 578 residents:\n\n\\[\n\\frac{31,560-30,982}{31,560}\\times100\n=\\frac{578}{31,560}\\times100\n=1.831432192\\ldots\\%\n\\]\n\nStonecairn lost 547 residents:\n\n\\[\n\\frac{15,473-14,926}{15,473}\\times100\n=\\frac{547}{15,473}\\times100\n=3.535213859\\ldots\\%\n\\]\n\nColdharbour lost 495 residents:\n\n\\[\n\\frac{11,902-11,407}{11,902}\\times100\n=\\frac{495}{11,902}\\times100\n=4.158125525\\ldots\\%\n\\]\n\nColdharbour had the largest percentage population loss, which is \\(4.158\\%\\) to three decimal places.\n\nANSWER: Coldharbour | 4.158",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 4.158
+   }
+  },
+  {
+   "reply": "Ossford lost 578 residents:\n\n\\[\n\\frac{31,560-30,982}{31,560}\\times100\n=\\frac{578}{31,560}\\times100\n=1.831432...\n\\%\\]\n\nStonecairn lost 547 residents:\n\n\\[\n\\frac{15,473-14,926}{15,473}\\times100\n=\\frac{547}{15,473}\\times100\n=3.535240...\n\\%\\]\n\nColdharbour lost 495 residents:\n\n\\[\n\\frac{11,902-11,407}{11,902}\\times100\n=\\frac{495}{11,902}\\times100\n=4.158125...\n\\%\\]\n\nColdharbour had the largest percentage loss, which rounds to 4.158%.\n\nANSWER: Coldharbour | 4.158",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 4.158
+   }
+  },
+  {
+   "reply": "Calculations:\n\n- Ossford: population loss = 31,560 − 30,982 = 578  \n  Percentage loss = 578 ÷ 31,560 × 100 = 1.831432...\n\n- Stonecairn: population loss = 15,473 − 14,926 = 547  \n  Percentage loss = 547 ÷ 15,473 × 100 = 3.535225...\n\n- Coldharbour: population loss = 11,902 − 11,407 = 495  \n  Percentage loss = 495 ÷ 11,902 × 100 = 4.158124...\n\nColdharbour lost the largest percentage, approximately 4.158%.\n\nANSWER: Coldharbour | 4.158",
+   "answer": {
+    "name": "Coldharbour",
+    "number": 4.158
+   }
+  }
+ ],
+ "seconds": 11.725,
+ "question_id": "Q-13",
+ "correct": true,
+ "expected": {
+  "answer": "Coldharbour",
+  "value": 4.16,
+  "decimals": 2
+ }
+}

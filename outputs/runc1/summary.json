@@ -1,0 +1,13 @@
+[
+ {
+  "strategy": "S3",
+  "questions": 5,
+  "correct": 5,
+  "unanswered": 0,
+  "prompt_tokens": 15981,
+  "completion_tokens": 1154,
+  "median_seconds": 5.93,
+  "total_seconds": 29.8,
+  "cost": 0.0046
+ }
+]

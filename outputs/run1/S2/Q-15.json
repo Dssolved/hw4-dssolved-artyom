@@ -1,0 +1,60 @@
+{
+ "strategy": "S2",
+ "reply": "Kelmarsh: \\(3268 \\div 11 = 297.090909\\ldots\\) pupils per school.\n\nRedfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nDifference: \\(314.7 - 297.090909\\ldots = 17.609090\\ldots\\) pupils per school.\n\nANSWER: Redfen | 17.609",
+ "answer": {
+  "name": "Redfen",
+  "number": 17.609,
+  "votes": 5,
+  "of": 5
+ },
+ "unanswered": false,
+ "prompt_tokens": 11280,
+ "completion_tokens": 489,
+ "calls": 5,
+ "k": 5,
+ "samples": [
+  {
+   "reply": "Kelmarsh: \\(3268 \\div 11 = 297.090909\\ldots\\) pupils per school.\n\nRedfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nDifference: \\(314.7 - 297.090909\\ldots = 17.609090\\ldots\\) pupils per school.\n\nANSWER: Redfen | 17.609",
+   "answer": {
+    "name": "Redfen",
+    "number": 17.609
+   }
+  },
+  {
+   "reply": "Kelmarsh: \\(3,268 \\div 11 = 297.090909\\ldots\\) pupils per school.\n\nRedfen: \\(3,147 \\div 10 = 314.7\\) pupils per school.\n\nDifference: \\(314.7 - 297.090909\\ldots = 17.609090\\ldots\\) pupils per school.\n\nRedfen has more pupils per school by 17.609 pupils per school.\n\nANSWER: Redfen | 17.609",
+   "answer": {
+    "name": "Redfen",
+    "number": 17.609
+   }
+  },
+  {
+   "reply": "Kelmarsh: \\(3,268 \\div 11 = 297.090909\\ldots\\) pupils per school.\n\nRedfen: \\(3,147 \\div 10 = 314.7\\) pupils per school.\n\nDifference: \\(314.7 - 297.090909\\ldots = 17.609090\\ldots\\) pupils per school.\n\nANSWER: Redfen | 17.609",
+   "answer": {
+    "name": "Redfen",
+    "number": 17.609
+   }
+  },
+  {
+   "reply": "Kelmarsh: \\(3268 \\div 11 = 297.090909\\ldots\\) pupils per school.\n\nRedfen: \\(3147 \\div 10 = 314.7\\) pupils per school.\n\nDifference: \\(314.7 - 297.090909\\ldots = 17.609090\\ldots\\) pupils per school.\n\nRedfen has more pupils per school by 17.609 pupils per school.\n\nANSWER: Redfen | 17.609",
+   "answer": {
+    "name": "Redfen",
+    "number": 17.609
+   }
+  },
+  {
+   "reply": "Kelmarsh: \\(3,268 \\div 11 = 297.090909\\ldots\\) pupils per school.\n\nRedfen: \\(3,147 \\div 10 = 314.7\\) pupils per school.\n\nDifference: \\(314.7 - 297.090909\\ldots = 17.609090\\ldots\\), which is 17.609 pupils per school.\n\nANSWER: Redfen | 17.609",
+   "answer": {
+    "name": "Redfen",
+    "number": 17.609
+   }
+  }
+ ],
+ "seconds": 9.406,
+ "question_id": "Q-15",
+ "correct": true,
+ "expected": {
+  "answer": "Redfen",
+  "value": 17.61,
+  "decimals": 2
+ }
+}

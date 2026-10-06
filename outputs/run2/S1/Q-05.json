@@ -1,0 +1,20 @@
+{
+ "strategy": "S1",
+ "reply": "ANSWER: Stonecairn | 34733.938",
+ "answer": {
+  "name": "Stonecairn",
+  "number": 34733.938
+ },
+ "unanswered": false,
+ "prompt_tokens": 2254,
+ "completion_tokens": 15,
+ "calls": 1,
+ "seconds": 0.933,
+ "question_id": "Q-05",
+ "correct": false,
+ "expected": {
+  "answer": "Coldharbour",
+  "value": 14235,
+  "decimals": 0
+ }
+}
